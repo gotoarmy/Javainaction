@@ -88,8 +88,8 @@ public class FilteringApples {
             public void setWeight(int weight) {
                 this.weight = weight;
             }
-
             public String getColor() {
+
                 return color;
             }
 
